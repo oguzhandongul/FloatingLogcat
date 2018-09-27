@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/resize"
+        android:title="Expand/Collapse" />
+    <item
+        android:id="@+id/autoscroll"
+        android:title="AutoScroll" />
+    <item
+        android:id="@+id/clear"
+        android:title="Clear" />
+    <item
+        android:id="@+id/close"
+        android:title="Close" />
+</menu>
